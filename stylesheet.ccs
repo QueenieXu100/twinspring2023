@@ -1,0 +1,6 @@
+body, tw-story {
+  background-color: #FFFAF0;
+  color: #000000;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 1.1em;
+}
